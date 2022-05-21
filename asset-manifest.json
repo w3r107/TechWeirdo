@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TechWeirdo/static/css/main.b27d1b63.css",
+    "main.js": "/TechWeirdo/static/js/main.ed9d614c.js",
+    "static/js/787.d175b776.chunk.js": "/TechWeirdo/static/js/787.d175b776.chunk.js",
+    "index.html": "/TechWeirdo/index.html",
+    "main.b27d1b63.css.map": "/TechWeirdo/static/css/main.b27d1b63.css.map",
+    "main.ed9d614c.js.map": "/TechWeirdo/static/js/main.ed9d614c.js.map",
+    "787.d175b776.chunk.js.map": "/TechWeirdo/static/js/787.d175b776.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b27d1b63.css",
+    "static/js/main.ed9d614c.js"
+  ]
+}
